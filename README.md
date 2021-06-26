@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on backend development with Go
+- 👯 I’m looking to collaborate on micro-service projects, also cool Go's library
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinoquang)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tinoquang/tinoquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
