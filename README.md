@@ -5,7 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinoquang&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=tinoquang&color=grey)
+
 <!--
 **tinoquang/tinoquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
